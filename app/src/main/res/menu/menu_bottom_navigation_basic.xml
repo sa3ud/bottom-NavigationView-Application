@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nbv_home"
+        android:icon="@drawable/ic_home"
+        android:title="home" />
+
+    <item
+        android:id="@+id/nbv_service"
+        android:icon="@drawable/ic_service"
+        android:title="service" />
+
+    <item
+        android:id="@+id/nbv_wallet"
+        android:icon="@drawable/ic_wallet"
+        android:title="wallet" />
+
+    <item
+        android:id="@+id/nbv_dashboard"
+        android:icon="@drawable/ic_dashboard"
+        android:title="dash board" />
+
+    <item
+        android:id="@+id/nbv_my_account"
+        android:icon="@drawable/ic_my_account"
+        android:title="my account" />
+
+</menu>
